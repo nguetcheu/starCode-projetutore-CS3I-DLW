@@ -41,8 +41,8 @@
         <div class="row">
           <div class="col-md-6">
             <p class="mb-0">
-              <span class="mr-3"><strong>Phone:</strong> <a href="tel://#">+1 292 3293 4238</a></span>
-              <span><strong>Email:</strong> <a href="#">info@yourdomain.com</a></span>
+              <span class="mr-3"><strong>Phone:</strong> <a href="tel://#">+237 6 96 88 62 92</a></span>
+              <span><strong>Email:</strong> <a href="#">starCode@gmail.com</a></span>
             </p>
           </div>
           <div class="col-md-6">
@@ -88,15 +88,15 @@
 
             <form action="#" class="p-5 bg-white">
               
-              <h2 class="h4 text-black mb-5">Contact Form</h2> 
+              <h2 class="h4 text-black mb-5">Formulaire de contact</h2> 
 
               <div class="row form-group">
                 <div class="col-md-6 mb-3 mb-md-0">
-                  <label class="text-black" for="fname">First Name</label>
+                  <label class="text-black" for="fname">Nom</label>
                   <input type="text" id="fname" class="form-control">
                 </div>
                 <div class="col-md-6">
-                  <label class="text-black" for="lname">Last Name</label>
+                  <label class="text-black" for="lname">Prénom</label>
                   <input type="text" id="lname" class="form-control">
                 </div>
               </div>
@@ -112,7 +112,7 @@
               <div class="row form-group">
                 
                 <div class="col-md-12">
-                  <label class="text-black" for="subject">Subject</label> 
+                  <label class="text-black" for="subject">Sujet</label> 
                   <input type="subject" id="subject" class="form-control">
                 </div>
               </div>
@@ -137,18 +137,18 @@
             
             <div class="p-4 mb-3 bg-white">
               <p class="mb-0 font-weight-bold">Address</p>
-              <p class="mb-4">203 Fake St. Mountain View, San Francisco, California, USA</p>
+              <p class="mb-4">Akwa, Douala, CMR</p>
 
               <p class="mb-0 font-weight-bold">Phone</p>
-              <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
+              <p class="mb-4"><a href="#">+237 696 88 62 92</a></p>
 
               <p class="mb-0 font-weight-bold">Email Address</p>
-              <p class="mb-0"><a href="#">youremail@domain.com</a></p>
+              <p class="mb-0"><a href="#">starCode@gmail.com</a></p>
 
             </div>
             
             <div class="p-4 mb-3 bg-white">
-              <h3 class="h5 text-black mb-3">More Info</h3>
+              <h3 class="h5 text-black mb-3">Plus Info</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ad iure porro mollitia architecto hic consequuntur. Distinctio nisi perferendis dolore, ipsa consectetur? Fugiat quaerat eos qui, libero neque sed nulla.</p>
               <p><a href="#" class="btn btn-primary btn-md text-white">Learn More</a></p>
             </div>
