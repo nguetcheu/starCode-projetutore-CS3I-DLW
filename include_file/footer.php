@@ -56,7 +56,7 @@
      <div class="col-md-12">
        <div class="border-top pt-5">
        <p>
-       Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://github.com/nguetcheu" target="_blank" >Nguetcheu kuinsi & njonzo takam</a>
+       Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://github.com/nguetcheu" target="_blank" >Nguetcheu kuinsi & njonzo takam</a>
        </p>
        </div>
      </div>
