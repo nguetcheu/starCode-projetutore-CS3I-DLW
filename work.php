@@ -96,7 +96,7 @@
             <a href="#" class="media-1">
               <img src="images/img_2.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 2</h2>
+                <h2>Jellyfish</h2>
                 <span class="category">Branding</span>
               </div>
             </a>
@@ -124,7 +124,7 @@
             <a href="#" class="media-1">
               <img src="images/img_5.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 5</h2>
+                <h2>Color is pure</h2>
                 <span class="category">Branding</span>
               </div>
             </a>
@@ -150,9 +150,9 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4">
             <a href="#" class="media-1">
-              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+              <img src="images/brand.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 2</h2>
+                <h2>who are they</h2>
                 <span class="category">Branding</span>
               </div>
             </a>
@@ -178,9 +178,9 @@
           </div>
           <div class="col-md-6 col-lg-4 mb-4">
             <a href="#" class="media-1">
-              <img src="images/img_5.jpg" alt="Image" class="img-fluid">
+              <img src="images/brand2.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 5</h2>
+                <h2>Earth is Beautiful</h2>
                 <span class="category">Branding</span>
               </div>
             </a>
