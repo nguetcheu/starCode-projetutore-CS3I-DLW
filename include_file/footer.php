@@ -1,67 +1,58 @@
 <?php
  echo '<footer class="site-footer">
  <div class="container">
-   <div class="row">
-     <div class="col-md-9">
-       <div class="row">
-         <div class="col-md-3">
-           <h2 class="footer-heading mb-4">Quick Links</h2>
-           <ul class="list-unstyled">
-             <li><a href="#">About Us</a></li>
-             <li><a href="#">Services</a></li>
-             <li><a href="#">Testimonials</a></li>
-             <li><a href="#">Contact Us</a></li>
-           </ul>
-         </div>
-         <div class="col-md-3">
-           <h2 class="footer-heading mb-4">Products</h2>
-           <ul class="list-unstyled">
-             <li><a href="#">About Us</a></li>
-             <li><a href="#">Services</a></li>
-             <li><a href="#">Testimonials</a></li>
-             <li><a href="#">Contact Us</a></li>
-           </ul>
-         </div>
-         <div class="col-md-3">
-           <h2 class="footer-heading mb-4">Features</h2>
-           <ul class="list-unstyled">
-             <li><a href="#">About Us</a></li>
-             <li><a href="#">Services</a></li>
-             <li><a href="#">Testimonials</a></li>
-             <li><a href="#">Contact Us</a></li>
-           </ul>
-         </div>
-         <div class="col-md-3">
-           <h2 class="footer-heading mb-4">Follow Us</h2>
-           <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-           <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-           <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-           <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-         </div>
-       </div>
-     </div>
-     <div class="col-md-3">
-       <h2 class="footer-heading mb-4">Subscribe Newsletter</h2>
-       <form action="#" method="post">
-         <div class="input-group mb-3">
-           <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
-           <div class="input-group-append">
-             <button class="btn btn-primary text-white" type="button" id="button-addon2">Send</button>
-           </div>
-         </div>
-       </form>
-     </div>
-   </div>
-   <div class="row pt-5 mt-5 text-center">
-     <div class="col-md-12">
-       <div class="border-top pt-5">
-       <p>
-       Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This website is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://github.com/nguetcheu" target="_blank" >Nguetcheu kuinsi & njonzo takam</a>
-       </p>
-       </div>
-     </div>
-     
-   </div>
- </div>
+        <div class="row gy-3">
+          <div class="col-lg-3 col-md-6 d-flex">
+            <i class="bi bi-geo-alt icon"></i>
+            <div>
+              <h4>Adresse</h4>
+              <p>
+              Akwa, Douala, CMR <br />
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links d-flex">
+            <i class="bi bi-telephone icon"></i>
+            <div>
+              <h4>Reservations</h4>
+              <p>
+                <strong>Phone:</strong> +237 696 88 62 92<br />
+                <strong>Email:</strong> starCode@gmail.com<br />
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links d-flex">
+            <i class="bi bi-clock icon"></i>
+            <div>
+              <h4>horaire</h4>
+              <p>
+                <strong>Lundi-Samedi: 06AM</strong> - 9PM<br />
+                Dimanche: Closed
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Follow Us</h4>
+          <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+          <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+          <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+          <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+        </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="copyright">
+          &copy; Copyright <strong><span>startCode</span></strong
+          >. All Rights Reserved
+        </div>
+        <div class="credits">
+          Designed by <a href="#">Nguetcheu dominique & Njonzo Takam</a>
+        </div>
+      </div>
 </footer>';
 ?>

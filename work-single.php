@@ -42,7 +42,7 @@
           <div class="col-md-6">
             <p class="mb-0">
               <span class="mr-3"><strong>Phone:</strong> <a href="tel://#">+1 292 3293 4238</a></span>
-              <span><strong>Email:</strong> <a href="#">info@yourdomain.com</a></span>
+              <span><strong>Email:</strong> <a href="#">starCode@gmail.com</a></span>
             </p>
           </div>
           <div class="col-md-6">
