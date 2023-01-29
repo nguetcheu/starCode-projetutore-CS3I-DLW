@@ -204,7 +204,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-8 text-center">
-            <h2 class="text-black h1 site-section-heading text-center">Testimonials</h2>
+            <h2 class="text-black h1 site-section-heading text-center">Témoignages</h2>
           </div>
         </div>
       </div>
@@ -213,7 +213,7 @@
             <div class="testimonial">
               
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;Il correspond parfaitement à nos besoins. Votre entreprise est vraiment honnête et soutient son produit à 100 %. Mec, tes affaires sont de la bombe !.&rdquo;</p>
               </blockquote>
 
               <figure class="mb-4 d-flex align-items-center justify-content-center">
@@ -226,7 +226,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;J'aime la carte du monde de l'énergie. Je pourrais probablement aller dans les ventes pour vous. C'est tout simplement incroyable.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_2.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -240,7 +240,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;Je vous recommanderai à mes collègues. Je paierais volontiers plus de 600 dollars pour un ticketSoccer. ticketSoccer vaut beaucoup plus que ce que j'ai payé.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_4.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -255,7 +255,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;"Franchement, cette chose s'améliore de plus en plus à mesure que j'en apprends davantage. Sans ce site web de nourriture, nous aurions déjà fait faillite. FoodWeb était le meilleur investissement que j'ai jamais fait."&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_5.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
