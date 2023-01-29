@@ -85,9 +85,9 @@
         <div class="row">
           <div class="col-md-6 col-lg-4 mb-4">
             <a href="#" class="media-1">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/dropshipping.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 1</h2>
+                <h2>Ecommerce</h2>
                 <span class="category">Web Application</span>
               </div>
             </a>
@@ -113,9 +113,9 @@
 
           <div class="col-md-6 col-lg-4 mb-4">
             <a href="#" class="media-1">
-              <img src="images/img_4.jpg" alt="Image" class="img-fluid">
+              <img src="images/love.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 4</h2>
+                <h2>LoveChat</h2>
                 <span class="category">Web Application</span>
               </div>
             </a>
@@ -141,9 +141,9 @@
 
           <div class="col-md-6 col-lg-4 mb-4">
             <a href="#" class="media-1">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              <img src="images/clone.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 1</h2>
+                <h2>Clone social app</h2>
                 <span class="category">Web Application</span>
               </div>
             </a>
@@ -171,7 +171,7 @@
             <a href="#" class="media-1">
               <img src="images/img_4.jpg" alt="Image" class="img-fluid">
               <div class="media-1-content">
-                <h2>Project Name 4</h2>
+                <h2>Street Gallery</h2>
                 <span class="category">Web Application</span>
               </div>
             </a>
