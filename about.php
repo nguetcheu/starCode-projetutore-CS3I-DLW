@@ -102,9 +102,9 @@
           <div class="col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
             <div class="person">
               <img src="images/person_2.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
-              <h3>Christine Rooster</h3>
+              <h3>Simon Takam</h3>
               <p class="position text-muted">Co-Founder, President</p>
-              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.</p>
+              <p class="mb-4">Développeur c'est son métier mais avant tout sa passion. Diplomé de IUC en 2008 il n'a cessé de hisser son nom au sommet du cameroun d'ou l'initiative de créer starCode, dans le but de se surpasser sur des plus grand projets nationaux et internationaux.</p>
               <ul class="ul-social-circle">
                 <li><a href="#"><span class="icon-facebook"></span></a></li>
                 <li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -118,7 +118,7 @@
               <img src="images/person_3.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
               <h3>Brandon Sharp</h3>
               <p class="position text-muted">Co-Founder, COO</p>
-              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.</p>
+              <p class="mb-4">Premier client de simon Takam le talent de ce dernier la convaincue d'investir au sein de cet startup axé sur la jeunesse. Son parcours professionnel est le suivant individu passionné par les affaires et l'entreprenariat il est toujours a la recherche du prochain Facebook.</p>
               <ul class="ul-social-circle">
                 <li><a href="#"><span class="icon-facebook"></span></a></li>
                 <li><a href="#"><span class="icon-twitter"></span></a></li>
@@ -132,7 +132,7 @@
               <img src="images/person_4.jpg" alt="Image" class="img-fluid rounded-circle w-50 mb-5">
               <h3>Connor Hodson</h3>
               <p class="position text-muted">Marketing</p>
-              <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi at consequatur unde molestiae quidem provident voluptatum deleniti quo iste error eos est praesentium distinctio cupiditate tempore suscipit inventore deserunt tenetur.</p>
+              <p class="mb-4">Sans ce monsieur Connor Hodson les comptes de starCode, ne serait pas a ce niveau.Il est la force tranquille celui la qui fourni les clients et fais en sorte que leur argent se concrétise en leur vision de reve. Tout simplement merci voila ce que nosu te disons.</p>
               <ul class="ul-social-circle">
                 <li><a href="#"><span class="icon-facebook"></span></a></li>
                 <li><a href="#"><span class="icon-twitter"></span></a></li>
