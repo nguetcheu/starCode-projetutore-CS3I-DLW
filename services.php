@@ -122,7 +122,7 @@
             <div class="p-3 box-with-humber">
               <div class="number-behind">01.</div>
               <h2>Web Design</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.</p>
+              <p>Le design élement fondamentale de tout produit qu'importe son efficacité s'il est pas bien designé cela ne sert a rien.</p>
             </div>
           </div>
 
@@ -130,7 +130,7 @@
             <div class="p-3 box-with-humber">
               <div class="number-behind">02.</div>
               <h2>Web Apps</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.</p>
+              <p>Le type application fonctionnant a travers un navigateur et s'appuyant sur le modéle client serveur géneralemnt.</p>
             </div>
           </div>
 
@@ -138,31 +138,7 @@
             <div class="p-3 box-with-humber">
               <div class="number-behind">03.</div>
               <h2>WordPress</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="p-3 box-with-humber">
-              <div class="number-behind">04.</div>
-              <h2>Web Design</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="400">
-            <div class="p-3 box-with-humber">
-              <div class="number-behind">05.</div>
-              <h2>Web Apps</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="500">
-            <div class="p-3 box-with-humber">
-              <div class="number-behind">06.</div>
-              <h2>WordPress</h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et praesentium eos nulla qui commodi consectetur beatae fugiat. Veniam iste rerum perferendis.</p>
+              <p>Nous vous fournissons des sites Web dont vous serez capable d'administrer de facon autonome car c'est cela batir une relation de confiance.</p>
             </div>
           </div>
         </div>
