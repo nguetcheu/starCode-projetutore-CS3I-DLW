@@ -67,7 +67,7 @@
                         
             <div class="row justify-content-center mb-4">
               <div class="col-md-8 text-center">
-                <h1>Our Services</h1>
+                <h1>Nos Services</h1>
                 <p class="lead mb-5">We Make Beautiful Things</p>
               </div>
             </div>
@@ -85,7 +85,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-laptop2"></span></div>
               <div>
                 <h3>Web Design</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>La création et la conception de site web ou web design est la conception de l'interface web : l’architecture interactionnelle, l’organisation des pages, l’arborescence et la navigation dans un site web..</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -95,7 +95,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-shopping_cart"></span></div>
               <div>
                 <h3>eCommerce</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>Le e-commerce englobe l'ensemble des transactions commerciales effectuées sur Internet.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
