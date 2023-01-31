@@ -60,15 +60,15 @@
 
               <div class="col-12 mb-4">
                 <div class="text-left pb-1 border-primary mb-4">
-                  <h2 class="text-primary">Our Specialties</h2>
+                  <h2 class="text-primary">Nos spécialités</h2>
                 </div>
               </div>
               <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
                 <div class="unit-4">
                   <div class="unit-4-icon mr-4 mb-3"><span class="text-secondary icon-phonelink"></span></div>
                   <div>
-                    <h3>Web &amp; Mobile Specialties</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis consect.</p>
+                    <h3>Spécialités Web &amp; Mobile</h3>
+                    <p>Nous avons débuter par la conception de solution web et mobile, dans ce domaine nous avons des fondations remarquables.</p>
                     <p class="mb-0"><a href="#">Learn More</a></p>
                   </div>
                 </div>
@@ -77,8 +77,8 @@
                 <div class="unit-4">
                   <div class="unit-4-icon mr-4 mb-3"><span class="text-secondary icon-extension"></span></div>
                   <div>
-                    <h3>Intuitive Thinkers</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis.</p>
+                    <h3>Pensée intuitive</h3>
+                    <p>Notre équipe met avant tout le coté rationnelle en avant aucun détail ne nous échappe.</p>
                     <p class="mb-0"><a href="#">Learn More</a></p>
                   </div>
                 </div>
@@ -95,7 +95,7 @@
       <div class="container">
         <div class="row justify-content-center mb-5">
           <div class="col-md-7 text-center border-primary">
-            <h2 class="font-weight-light text-primary" data-aos="fade">Our Team</h2>
+            <h2 class="font-weight-light text-primary" data-aos="fade">Notre équipe</h2>
           </div>
         </div>
         <div class="row">
@@ -147,11 +147,11 @@
     
 
 
-    <section class="site-section testimonial-wrap" data-aos="fade">
+    <section class="site-section testimonial-wrap">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-8 text-center">
-            <h2 class="text-black h1 site-section-heading text-center">Testimonials</h2>
+            <h2 class="text-black h1 site-section-heading text-center">Témoignages</h2>
           </div>
         </div>
       </div>
@@ -160,7 +160,7 @@
             <div class="testimonial">
               
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;Il correspond parfaitement à nos besoins. Votre entreprise est vraiment honnête et soutient son produit à 100 %. Mec, tes affaires sont de la bombe !.&rdquo;</p>
               </blockquote>
 
               <figure class="mb-4 d-flex align-items-center justify-content-center">
@@ -173,7 +173,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;J'aime la carte du monde de l'énergie. Je pourrais probablement aller dans les ventes pour vous. C'est tout simplement incroyable.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_2.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -187,7 +187,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;Je vous recommanderai à mes collègues. Je paierais volontiers plus de 600 dollars pour un ticketSoccer. ticketSoccer vaut beaucoup plus que ce que j'ai payé.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_4.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -202,7 +202,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;"Franchement, cette chose s'améliore de plus en plus à mesure que j'en apprends davantage. Sans ce site web de nourriture, nous aurions déjà fait faillite. FoodWeb était le meilleur investissement que j'ai jamais fait."&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_5.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
