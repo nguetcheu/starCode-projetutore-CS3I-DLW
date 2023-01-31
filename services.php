@@ -105,7 +105,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-question_answer"></span></div>
               <div>
                 <h3>Web Applications</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>une application web est une application manipulable directement en ligne grâce à un navigateur web et qui ne nécessite donc pas d'installation.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -117,7 +117,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-format_paint"></span></div>
               <div>
                 <h3>Branding</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>C'est la discipline qui consiste à gérer les marques commerciales, et en particulier l'image de marque des entreprises qui les exploitent..</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -127,7 +127,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-extension"></span></div>
               <div>
                 <h3>Copy Writing</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>C'est l'acte ou l'occupation d'écrire un texte à des fins publicitaires.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -137,7 +137,7 @@
               <div class="unit-4-icon mr-4"><span class="text-primary icon-phonelink"></span></div>
               <div>
                 <h3>Mobile Applications</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <p>C'est un logiciel applicatif développé pour un appareil électronique mobile</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -202,11 +202,11 @@
       </div>
     </section>
 
-    <section class="site-section testimonial-wrap" data-aos="fade">
+    <section class="site-section testimonial-wrap">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-8 text-center">
-            <h2 class="text-black h1 site-section-heading text-center">Testimonials</h2>
+            <h2 class="text-black h1 site-section-heading text-center">Témoignages</h2>
           </div>
         </div>
       </div>
@@ -215,7 +215,7 @@
             <div class="testimonial">
               
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;Il correspond parfaitement à nos besoins. Votre entreprise est vraiment honnête et soutient son produit à 100 %. Mec, tes affaires sont de la bombe !.&rdquo;</p>
               </blockquote>
 
               <figure class="mb-4 d-flex align-items-center justify-content-center">
@@ -228,7 +228,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;J'aime la carte du monde de l'énergie. Je pourrais probablement aller dans les ventes pour vous. C'est tout simplement incroyable.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_2.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -242,7 +242,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;Je vous recommanderai à mes collègues. Je paierais volontiers plus de 600 dollars pour un ticketSoccer. ticketSoccer vaut beaucoup plus que ce que j'ai payé.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_4.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -257,7 +257,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
+                <p>&ldquo;"Franchement, cette chose s'améliore de plus en plus à mesure que j'en apprends davantage. Sans ce site web de nourriture, nous aurions déjà fait faillite. FoodWeb était le meilleur investissement que j'ai jamais fait."&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/person_5.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
